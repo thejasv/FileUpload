@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufTjRusAaCB/T/tk5mwd2NAnoaDZUpLn9DX2QHVsi7V/j4Si+5CagwoFhj+m/c8sC7IJrzOVszyV7K7R1I5q3w==",
+  "success": true,
+  "projectFilePath": "D:\\AWS_Lrng\\Product-MVC\\FileUpload\\FileUpload\\FileUpload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THEJAS H V\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
